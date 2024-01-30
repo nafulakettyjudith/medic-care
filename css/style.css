@@ -79,6 +79,9 @@
   margin: 2em 4em;
   padding: 2em 3em;
 }
+.priviledge{
+  box-shadow: 4px 4px 4px 4px lightgray;
+}
 
 .card-right h2 {
   color: #496bf2;
@@ -172,7 +175,7 @@
   width: 50%;
   padding-top: 2em;
   margin-top: 2em;
-  border-radius: ;
+  /* border-radius: ; */
 }
 
 #message {
